@@ -1,0 +1,66 @@
+body{
+   background-color: #cccddd; 
+}
+#nav{
+background-color:#ffffff;
+color: black;
+    
+}
+#h1nav{
+    font-size: 35px;
+}
+#ulnav>li>a{
+    font-size: 20px;
+   
+}
+#features {
+	text-align: center;
+}
+
+#features img {
+	margin: 0 0 20px;
+}
+
+#inputMessage {
+	margin-bottom: 15px;
+}
+
+/*boses*/
+.box1{
+    background: #cccddd;  
+}
+#htmlfooter{
+    background-color: brown;
+}
+
+/* servies */
+#serh1{
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 10px;
+    text-align: center;
+}
+
+
+/* about */
+#about{
+    background-color:dimgrey;
+    color: white;
+}
+
+/*terteminols*/
+.tast1{
+    width: 30%;
+    padding: 13px;
+    float: left;
+    margin-left: 30px;
+}
+
+
+/* footer*/
+.footer1{
+ background-color: rgb(rgb(138, 116, 116), rgb(122, 141, 122), rgb(92, 92, 114))
+}
+
+
+
